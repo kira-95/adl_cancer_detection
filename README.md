@@ -15,3 +15,6 @@ https://camelyon16.grand-challenge.org
 
 Liu et al. (2017) paper:
 https://arxiv.org/abs/1703.02442
+
+Models Drive Link:
+https://drive.google.com/open?id=1-b6O4I9oDdqEcZPJqKeWe4mOnlL2pK-w
